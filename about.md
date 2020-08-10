@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am currently a Junior studying computer science. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+In my free time I enjoy doing all kinds of hardware and software projects including data hoarding. Specifically I collect digital comics and eBooks.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[telltaylor@gmail.com](mailto:telltaylor@gmail.com)
