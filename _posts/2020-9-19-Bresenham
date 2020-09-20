@@ -1,0 +1,9 @@
+---
+
+layout: post
+title: Bresenham Lines
+
+---
+
+This week I have started making my own custom roguelike. More specifically I have been researching the [Bresenham's line algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm) 
+to use for line of sight in my game. Still not quite sure how I will implement this into my game but so far it seems super useful 
