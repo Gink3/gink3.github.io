@@ -67,7 +67,7 @@ Currently what I have is the language I want to use and the graphics library, be
 
 Reading [this](http://people.cs.ksu.edu/~schmidt/300s05/Lectures/Lecture0.html) article from Kansas State University has been fairly informative. I think I will be using their ideas for flow charts to diagram out the game process as well at the menu system. I did not consider how I want to be process and was kind of developing bricks without realizing which ones I needed.
 
-Next I read [this](https://en.wikibooks.org/wiki/Introduction_to_Computer_Information_Systems/Program_Development#:~:text=Program%20development%20life%20cycle%20(PDLC,implementing%20and%20maintaining%20application%20software.) which talks about modeling how the data will be stored as well as the methods and function I will need. More specifically it pairs those diagrams with control structures which is what the first article talks about using.
+Next I read [this](https://en.wikibooks.org/wiki/Introduction_to_Computer_Information_Systems/Program_Development#:~:text=Program%20development%20life%20cycle%20(PDLC,implementing%20and%20maintaining%20application%20software) which talks about modeling how the data will be stored as well as the methods and function I will need. More specifically it pairs those diagrams with control structures which is what the first article talks about using.
 
 ### Music
 
